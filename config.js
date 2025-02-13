@@ -42,15 +42,17 @@ const CONFIG = {
     // Love meter messages
     // They show up depending on how far they slide the meter
     loveMessages: {
-        extreme: "Maaaariiiiiiiiiiiiiiii Baaaaaaabbbbbbbuuuuuuuuuu 🥰🚀💝",  // Shows when they go past 5000%
-        high: "Baaabbbbbuuuuuuuu",              // Shows when they go past 1000%
-        normal: "Babuu 🥰"                           // Shows when they go past 100%
+        extreme: "Maaaariiiiiiiiiiiiiiii Jaaaaaaaaaannnnnnnnnnn 😘😘😘😘😘😘😘😘😘😘❤️❤️❤️❤️❤️❤️❤️",  // Shows when they go past 5000%
+        highmedium: "Baaaaaaaaabbbbbbuuuuuuuuuullluuuuuuuu❤️❤️❤️❤️❤️❤️❤️❤️❤️😘😘😘😘😘😘😘😘😘"
+        mediumhigh: "Maariii Bakuuuuddiiiiii❤️❤️❤️❤️😘😘😘😘😘",
+        high: "Maarii Gaabbuuuudiiiii❤️❤️😘😘",              // Shows when they go past 1000%
+        normal: "Baaaabuuuuu ❤️😘"                           // Shows when they go past 100%
     },
 
     // Messages that appear after they say "Yes!"
     celebration: {
-        title: "I love you soooooo muuucccchhhhhh Baaaabbbbbuuuuuuuuuu 🎉💝💖💝💓",
-        message: "Maari bakudi, maaru babuuluuu, maaari apple pie, maariii gabudiii",
+        title: "I love you soooooo muuucccchhhhhh Baaaabbbbbuuuuuuuuuu 💝💖💝💓",
+        message: "Please be my valentine today and always babu 😘😘😘😘😘😘😘😘😘😘❤️❤️❤️❤️❤️❤️❤️",
         emojis: "💖🤗💋❤️💕"  // These will bounce around
     },
 
