@@ -43,7 +43,7 @@ const CONFIG = {
     // They show up depending on how far they slide the meter
     loveMessages: {
         extreme: "Maaaariiiiiiiiiiiiiiii Jaaaaaaaaaannnnnnnnnnn 😘😘😘😘😘😘😘😘😘😘❤️❤️❤️❤️❤️❤️❤️",  // Shows when they go past 5000%
-        highmedium: "Baaaaaaaaabbbbbbuuuuuuuuuullluuuuuuuu❤️❤️❤️❤️❤️❤️❤️❤️❤️😘😘😘😘😘😘😘😘😘"
+        highmedium: "Baaaaaaaaabbbbbbuuuuuuuuuullluuuuuuuu❤️❤️❤️❤️❤️❤️❤️❤️❤️😘😘😘😘😘😘😘😘😘",
         mediumhigh: "Maariii Bakuuuuddiiiiii❤️❤️❤️❤️😘😘😘😘😘",
         high: "Maarii Gaabbuuuudiiiii❤️❤️😘😘",              // Shows when they go past 1000%
         normal: "Baaaabuuuuu ❤️😘"                           // Shows when they go past 100%
