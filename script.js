@@ -155,9 +155,18 @@ loveMeter.addEventListener('input', () => {
         if (value >= 5000) {
             extraLove.classList.add('super-love');
             extraLove.textContent = config.loveMessages.extreme;
-        } else if (value > 1000) {
+        } else if (value > 4000) {
             extraLove.classList.remove('super-love');
             extraLove.textContent = config.loveMessages.high;
+        } else if (value > 3000) {
+            extraLove.classList.remove('super-love');
+            extraLove.textContent = config.loveMessages.highmedium;
+        } else if (value > 2000) {
+            extraLove.classList.remove('super-love');
+            extraLove.textContent = config.loveMessages.mediumhigh;
+        } else if (value > 1000) {
+            extraLove.classList.remove('super-love');
+            extraLove.textContent = config.loveMessages.medium;
         } else {
             extraLove.classList.remove('super-love');
             extraLove.textContent = config.loveMessages.normal;
