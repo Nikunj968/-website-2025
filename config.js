@@ -5,11 +5,11 @@
 const CONFIG = {
     // Your Valentine's name that will appear in the title
     // Example: "Jade", "Sarah", "Mike"
-    valentineName: "Charmi",
+    valentineName: "Mummy, Papa",
 
     // The title that appears in the browser tab
     // You can use emojis! 💝 💖 💗 💓 💞 💕
-    pageTitle: "Will You Be My Valentine? 💝",
+    pageTitle: "Will You be My Valentine? 💝",
 
     // Floating emojis that appear in the background
     // Find more emojis at: https://emojipedia.org
@@ -42,18 +42,18 @@ const CONFIG = {
     // Love meter messages
     // They show up depending on how far they slide the meter
     loveMessages: {
-        extreme: "Maaaariiiiiiiiiiiiiiii Jaaaaaaaaaannnnnnnnnnn 😘😘😘😘😘😘😘😘😘😘❤️❤️❤️❤️❤️❤️❤️",  // Shows when they go past 5000%
-        highmedium: "Baaaaaaaaabbbbbbuuuuuuuuuullluuuuuuuu❤️❤️❤️❤️❤️❤️❤️❤️❤️😘😘😘😘😘😘😘😘😘",
-        mediumhigh: "Maariii Bakuuuuddiiiiii❤️❤️❤️❤️😘😘😘😘😘",
-        high: "Maarii Gaabbuuuudiiiii❤️❤️😘😘",              // Shows when they go past 1000%
-        normal: "Baaaabuuuuu ❤️😘"                           // Shows when they go past 100%
+        extreme: "Haaaawwwwww Atluuuuu badhuuuuuuuuuu ❤️❤️❤️❤️❤️❤️",  // Shows when they go past 5000%
+        highmedium: "Waaaahhhhhhhh❤️❤️❤️❤️❤️❤️❤️❤️",
+        mediumhigh: "Hunnnn paaannn ❤️❤️❤️❤️",
+        high: "❤️❤️",              // Shows when they go past 1000%
+        normal: "❤️"                           // Shows when they go past 100%
     },
 
     // Messages that appear after they say "Yes!"
     celebration: {
-        title: "I love you soooooo muuucccchhhhhh Baaaabbbbbuuuuuuuuuu 💝💖💝💓",
-        message: "Please be my valentine today and always babu 😘😘😘😘😘😘😘😘😘😘❤️❤️❤️❤️❤️❤️❤️",
-        emojis: "💖🤗💋❤️💕"  // These will bounce around
+        title: "I love you banev ne 💝💖💝💓",
+        message: "Banev ne Happy Valentine's Day!!!!❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️",
+        emojis: "💖❤️💕"  // These will bounce around
     },
 
     // Color scheme for the website
